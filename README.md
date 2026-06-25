@@ -1,12 +1,12 @@
-# NimmagaddavenkataNagaPhanindra_2511084_part3_regression_insights
+# KondapuramBhuvanAakarsh_2511083_part3_regression_insights
 
 # Part 3 – Regression Insights and Business Recommendations
 
 ## Student Information
 
-**Name:** YOUR NAME
+**Name:** KONDAPURAM BHUVAN AAKARSH
 
-**Student ID:** YOUR STUDENT ID
+**Student ID:** 2511083
 
 **Assignment:** Part 3 – Regression Insights and Business Recommendations
 
